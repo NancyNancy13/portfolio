@@ -410,6 +410,9 @@ nav.show {
     opacity: 1;
   }
 }
+footer {
+  padding: 2rem;
+}
 @media only screen and (max-width: 600px) {
   #intro {
     display: grid;
@@ -452,8 +455,5 @@ nav.show {
     display: grid;
     grid-template-columns: 1fr;
     height: 100vh;
-  }
-  footer {
-    padding: 2rem;
   }
 }
